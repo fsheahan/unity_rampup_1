@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/cookbookChapter1.unity
+- path: Assets/siblingIndex.unity
   isLoaded: 1
   isActive: 1

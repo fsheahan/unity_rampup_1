@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\ClockDigital.cs" />
      <Compile Include="Assets\Scripts\DigitalCountdown.cs" />
      <Compile Include="Assets\Scripts\MenuActions.cs" />
+     <Compile Include="Assets\Scripts\SliderValueToText.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>

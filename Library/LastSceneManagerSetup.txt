@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/siblingIndex.unity
+- path: Assets/1_12_Fungus.unity
   isLoaded: 1
   isActive: 1

@@ -229,6 +229,7 @@
      <Compile Include="Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs" />
      <Compile Include="Assets\Scripts\ClockDigital.cs" />
      <Compile Include="Assets\Scripts\CountdownTimer.cs" />
+     <Compile Include="Assets\Scripts\CustomCursorPointer.cs" />
      <Compile Include="Assets\Scripts\DigitalCountdown.cs" />
      <Compile Include="Assets\Scripts\FadeAway.cs" />
      <Compile Include="Assets\Scripts\FadingMessage.cs" />

@@ -237,6 +237,7 @@
      <Compile Include="Assets\Scripts\MenuActions.cs" />
      <Compile Include="Assets\Scripts\SliderTimerDisplay.cs" />
      <Compile Include="Assets\Scripts\SliderValueToText.cs" />
+     <Compile Include="Assets\Scripts\ToggleChangeManager.cs" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Thirdparty\JSON\readme.txt" />
      <None Include="Assets\FungusExamples\FungusLua\Localization\stringtable.txt" />
      <None Include="Assets\Fungus\README.txt" />

@@ -235,6 +235,7 @@
      <Compile Include="Assets\Scripts\FadeAway.cs" />
      <Compile Include="Assets\Scripts\FadingMessage.cs" />
      <Compile Include="Assets\Scripts\MenuActions.cs" />
+     <Compile Include="Assets\Scripts\RadioButtonManager.cs" />
      <Compile Include="Assets\Scripts\SliderTimerDisplay.cs" />
      <Compile Include="Assets\Scripts\SliderValueToText.cs" />
      <Compile Include="Assets\Scripts\ToggleChangeManager.cs" />

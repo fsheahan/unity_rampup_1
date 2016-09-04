@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CustomCursorPointer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RadioButtonManager.cs">
     <Files>
       <File FileName="Assets/Scripts/MenuActions.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ClockDigital.cs" Line="1" Column="1" />
@@ -11,6 +11,9 @@
       <File FileName="Assets/Scripts/FadeAway.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/FadingMessage.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/CustomCursorPointer.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/DisplayChangedTextContent.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/ToggleChangeManager.cs" Line="12" Column="39" />
+      <File FileName="Assets/Scripts/RadioButtonManager.cs" Line="13" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
